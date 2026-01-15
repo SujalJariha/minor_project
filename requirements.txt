@@ -1,0 +1,4 @@
+tensorflow==2.13.1
+h5py>=3.10
+Pillow
+numpy

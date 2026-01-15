@@ -1,0 +1,6 @@
+streamlit==1.39.0
+tensorflow-cpu==2.17.0
+tf-keras==2.17.0
+h5py>=3.10
+Pillow
+numpy
